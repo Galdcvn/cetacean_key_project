@@ -1,5 +1,6 @@
 <script setup>
 import Filtros from "./components/filtros/Filtros.vue"
+import Cards from "./components/cards/Cards.vue"
 </script>
 
 <template>
@@ -12,13 +13,14 @@ import Filtros from "./components/filtros/Filtros.vue"
     </section>
 
     <section class="parteBaixo">
-      <main>
+      <main class="baixoMain">
         <section class="filtros">
           <Filtros />
         </section>
 
         <section class="cards">
-
+          <h1>ANIMAIS ENCONTRADOS:</h1>
+          <Cards />
         </section>
       </main>
     </section>
@@ -62,14 +64,13 @@ import Filtros from "./components/filtros/Filtros.vue"
     box-shadow: -2px 3px 5px 3px rgba(32,79,113,0.25);
   }
 
-
   .parteBaixo{
     height: 505px;
 
     display: flex;
     justify-content: center;
   }
-  .parteBaixo main{
+  .baixoMain{
     width: 1200px;
 
     display: flex;
@@ -78,8 +79,13 @@ import Filtros from "./components/filtros/Filtros.vue"
   }
   .filtros{
     width: 285px;
+    overflow-y: scroll;
   }
   .cards{
     width: 860px;
+  }
+  h1{
+    font-weight: 700;
+    font-size: 30px;
   }
 </style>

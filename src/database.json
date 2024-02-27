@@ -1,0 +1,442 @@
+[
+    {
+        "especie": "Balaena mysticetus",
+        "popularNome": "Baleia-da-Groenlândia",
+        "genero": "Balaena",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "FALSE",
+        "tamMaximo": "18",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Balaenoptera acutorostrata",
+        "popularNome": "Baleia-anã",
+        "genero": "Balaenoptera",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "9",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Balaenoptera bonaerensis",
+        "popularNome": "Baleia-minke-antártica",
+        "genero": "Balaenoptera",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "12",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Balaenoptera borealis",
+        "popularNome": "Baleia-sei",
+        "genero": "Balaenoptera",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "15",
+        "conservacao": "Risco"
+    },
+    {
+        "especie": "Balaenoptera edeni",
+        "popularNome": "Baleia-de-bryde",
+        "genero": "Balaenoptera",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "15",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Balaenoptera musculus",
+        "popularNome": "Baleia-azul",
+        "genero": "Balaenoptera",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "30",
+        "conservacao": "Risco"
+    },
+    {
+        "especie": "Balaenoptera omurai",
+        "popularNome": "Baleia-de-Omura",
+        "genero": "Balaenoptera",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "11.5",
+        "conservacao": "Desconhecido"
+    },
+    {
+        "especie": "Balaenoptera physalus",
+        "popularNome": "Baleia-comum",
+        "genero": "Balaenoptera",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "20",
+        "conservacao": "Risco"
+    },
+    {
+        "especie": "Caperea marginata",
+        "popularNome": "Baleia-franca-pigméia",
+        "genero": "Caperea",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "6.5",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Eschrichtius robustus",
+        "popularNome": "Baleia-cinzenta",
+        "genero": "Eschrichtius",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "FALSE",
+        "tamMaximo": "15",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Eubalaena australis",
+        "popularNome": "Baleia-franca-austral",
+        "genero": "Eubalaena",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "FALSE",
+        "tamMaximo": "17",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Eubalaena glacialis",
+        "popularNome": "Baleia-franca-do-atlântico-norte",
+        "genero": "Eubalaena",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "FALSE",
+        "tamMaximo": "17",
+        "conservacao": "Risco"
+    },
+    {
+        "especie": "Eubalaena japonica",
+        "popularNome": "Baleia-franca-do-pacífico",
+        "genero": "Eubalaena",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "FALSE",
+        "tamMaximo": "18",
+        "conservacao": "Risco"
+    },
+    {
+        "especie": "Megaptera novaeangliae",
+        "popularNome": "Baleia-jubarte",
+        "genero": "Megaptera",
+        "subordem": "Mysticeti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "16",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Berardius arnuxii",
+        "popularNome": "Baleia-bicuda-de-arnoux",
+        "genero": "Berardius",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "12",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Berardius bairdii",
+        "popularNome": "Baleia-bicuda-de-baird",
+        "genero": "Berardius",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "13",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Berardius minimus",
+        "popularNome": "Baleia-bicuda-de-sato",
+        "genero": "Berardius",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "7",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Cephalorhynchus commersonii",
+        "popularNome": "Golfinho-de-commerson",
+        "genero": "Cephalorhynchus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "1.5",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Cephalorhynchus eutropia",
+        "popularNome": "Golfinho-chileno",
+        "genero": "Cephalorhynchus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "2",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Cephalorhynchus heavisidii",
+        "popularNome": "Golfinho-de-heaviside",
+        "genero": "Cephalorhynchus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "2",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Cephalorhynchus hectori",
+        "popularNome": "Golfinho-de-hector",
+        "genero": "Cephalorhynchus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "1.5",
+        "conservacao": "Risco"
+    },
+    {
+        "especie": "Delphinapterus leucas",
+        "popularNome": "Beluga",
+        "genero": "Delphinapterus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "FALSE",
+        "tamMaximo": "5.5",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Delphinus capensis",
+        "popularNome": "Golfinho-comum-de-bico-longo",
+        "genero": "Delphinus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "1.5",
+        "conservacao": "Desconhecido"
+    },
+    {
+        "especie": "Delphinus delphis",
+        "popularNome": "Golfinho-comum-de-bico-curto",
+        "genero": "Delphinus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "2.5",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Feresa attenuata",
+        "popularNome": "Orca-pigméia",
+        "genero": "Feresa",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "2",
+        "conservacao": "Risco"
+    },
+    {
+        "especie": "Globicephala macrorhynchus",
+        "popularNome": "Baleia-piloto-de-aleta-curta",
+        "genero": "Globicephala",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "7",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Globicephala melas",
+        "popularNome": "Baleia-piloto-de-aleta-longa",
+        "genero": "Globicephala",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "7.5",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Grampus griseus",
+        "popularNome": "Golfinho-de-risso",
+        "genero": "Grampus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "4",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Hyperoodon ampullatus",
+        "popularNome": "Baleia-bicuda-de-cabeça-plana-do-norte",
+        "genero": "Hyperoodon",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "10",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Hyperoodon planifrons",
+        "popularNome": "Baleia-bicuda-de-cabeça-plana-do-sul",
+        "genero": "Hyperoodon",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "15",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Indopacetus pacificus",
+        "popularNome": "Baleia-bicuda-de-longman",
+        "genero": "Indopacetus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "7",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Inia araguaiaensis",
+        "popularNome": "Boto-do-araguaia",
+        "genero": "Inia",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Doce",
+        "barbatanasDorsais": "FALSE",
+        "tamMaximo": "2.5",
+        "conservacao": "Desconhecido"
+    },
+    {
+        "especie": "Inia boliviensis",
+        "popularNome": "Boto-da-Bolívia",
+        "genero": "Inia",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Doce",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "3",
+        "conservacao": "Desconhecido"
+    },
+    {
+        "especie": "Inia geoffrensis",
+        "popularNome": "Boto-cor-de-Rosa",
+        "genero": "Inia",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Doce",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "3",
+        "conservacao": "Risco"
+    },
+    {
+        "especie": "Kogia breviceps",
+        "popularNome": "Cachalote-pigmeu",
+        "genero": "Kogia",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "FALSE",
+        "tamMaximo": "3.5",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Kogia sima",
+        "popularNome": "Cachalote-anão",
+        "genero": "Kogia",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "3",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Lagenodelphis hosei",
+        "popularNome": "Golfinho-de-fraser",
+        "genero": "Lagenodelphis",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "1",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Lagenorhynchus acutus",
+        "popularNome": "Golfinho-de-laterais-brancas-do-atlântico",
+        "genero": "Lagenorhynchus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "3",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Lagenorhynchus albirostris",
+        "popularNome": "Golfinho-de-bico-branco",
+        "genero": "Lagenorhynchus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "3",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Lagenorhynchus australis",
+        "popularNome": "Golfinho-do-sul",
+        "genero": "Lagenorhynchus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "2",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Lagenorhynchus cruciger",
+        "popularNome": "Golfinho-cruzado",
+        "genero": "Lagenorhynchus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "2",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Lagenorhynchus obliquidens",
+        "popularNome": "Golfinho-de-laterais-brancas-do-pacífico",
+        "genero": "Lagenorhynchus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "2.5",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Lagenorhynchus obscurus",
+        "popularNome": "Golfinho-cinzento",
+        "genero": "Lagenorhynchus",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Salgada",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "2",
+        "conservacao": "Seguro"
+    },
+    {
+        "especie": "Lipotes vexillifer",
+        "popularNome": "Baiji",
+        "genero": "Lipotes",
+        "subordem": "Odontoceti",
+        "tipoAgua": "Doce",
+        "barbatanasDorsais": "TRUE",
+        "tamMaximo": "3",
+        "conservacao": "Extinto"
+    }
+]
